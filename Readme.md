@@ -1,1 +1,1 @@
-"cypress_first_project" 
+cypress first project
